@@ -1,0 +1,16 @@
+.logo {
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  .logo_web {
+    color: #4d5ae5;
+  }
+  .logo_studio_dark {
+    color: #2e2f42;
+  }
+  .logo_studio_light {
+    color: #f4f4fd;
+  }
+}
